@@ -1,0 +1,11 @@
+{
+    "author": "Nathan Moinvaziri",
+    "description": "Topics of study",
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 1
+        }
+    }
+}

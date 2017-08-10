@@ -1,0 +1,23 @@
+quote {
+    display: block;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: .85em;
+}
+quote cite {
+    font-size: 0.9em !important;
+    font-style: normal;
+}
+quote span {
+    display: block;
+    padding-left: 24px;
+    font-size: 0.68em !important;
+}
+quote book {
+    font-style: italic;
+}
+.fancyimage {
+    margin-left: 6px;
+    margin-right: 6px;
+    border: 1px solid gray !important;
+}

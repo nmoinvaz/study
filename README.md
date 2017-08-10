@@ -1,103 +1,98 @@
-![Build Status](https://gitlab.com/pages/gitbook/badges/pages/build.svg)
+Study
+======
 
----
+Some of these pages constitute my journey to develop the critical faculties of my mind.
 
-Example [GitBook] website using GitLab Pages.
+<quote><cite>There is no system of either education, politics, or religion, which ought to be excepted from the severest scrutiny of the human mind, or the closest examination which the human faculties can bestow on it.</cite><span>&mdash; <author>Palmer, Elihu</author>, <book>Principles of Nature p. 207</book></span></quote>
 
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation https://docs.gitlab.com/ce/user/project/pages/.
+## Additional Resources
 
----
+These are some interesting resources that I have collected in the course of my studies.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+### Religion
 
-- [GitLab CI](#gitlab-ci)
-- [Building locally](#building-locally)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-- [Troubleshooting](#troubleshooting)
+*Documentaries*
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+-   [Kumare](http://www.youtube.com/watch?v=OXUzG6YKuvo)
+-   [With God on Our Side](http://www.youtube.com/watch?v=RFUm7rTOOio)
+-   [The Bible Unearthed I](http://www.youtube.com/watch?v=t440bxhn1qA) [II](http://www.youtube.com/watch?v=QDDs8HgOZ4o) [III](http://www.youtube.com/watch?v=Pm45sZEu25w) [IV](http://www.youtube.com/watch?v=3tdKptBL5dc)
+-   [Death is Not Final](http://www.youtube.com/watch?v=h0YtL5eiBYw)
+-   [American Radical](http://www.youtube.com/watch?v=r-QiH0O8-Qg)
+-   [The Unbelievers](http://en.wikipedia.org/wiki/The_Unbelievers)
+-   [Jesus Camp](https://en.wikipedia.org/wiki/Jesus_Camp)
+-   [God Loves Uganda](http://www.godlovesuganda.com/)
 
-## GitLab CI
+*Articles*
 
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
+-   [Focus on Reasoning, Not on Belief](http://www.youngfreethought.net/2012/07/eric-stockhausen-20-offers-some.html)
+-   [The Scriptural Basis for a Geocentric Cosmology](http://hypertextbook.com/eworld/geocentric.shtml)
+-   [The Bible is Pro-Choice](http://www.prochoiceactionnetwork-canada.org/articles/bible.shtml)
+-   [A Prayer For My Daughter](http://openparachute.files.wordpress.com/2008/09/prayer-for-my-daughter.pdf)
+-   [On Religious Fanaticism](http://www.psychosynthesispaloalto.com/pdfs/Religious_Fan.pdf)
+-   [World Religions Tree](http://funki.com.ua/ru/portfolio/lab/world-religions-tree/)
+-   [Is philosophy dead?](http://www.debate.org/opinions/is-philosophy-dead)
 
-```yaml
-# requiring the environment of NodeJS 4.2.2
-image: node:4.2.2
+### Money
 
-# add 'node_modules' to cache for speeding up builds
-cache:
-  paths:
-    - node_modules/ # Node modules and dependencies
+The next evolutionary steps in our system of money.
 
-before_script:
-  - npm install gitbook-cli -g # install gitbook
-  - gitbook fetch latest # fetch latest stable version
-  #- gitbook fetch pre # fetch latest pre-release version
-  #- gitbook fetch 2.6.7 # fetch specific version
+-   [Positive Money](http://www.positivemoney.org/)
+-   [Public Banking](http://publicbankinginstitute.org/)
 
-# the 'pages' job will deploy and build your site to the 'public' path
-pages:
-  stage: deploy
-  script:
-    - gitbook build . public # build to public path
-  artifacts:
-    paths:
-      - public
-  only:
-    - master # this job will affect only the 'master' branch
-```
+*Documentaries*
 
-## Building locally
+-   [Money Masters](http://www.youtube.com/watch?v=HfpO-WBz_mw)
+-   [The Secret of Oz](http://www.youtube.com/watch?v=swkq2E8mswI)
+-   [Money as Debt I](http://www.youtube.com/watch?v=jqvKjsIxT_8) [II](http://www.youtube.com/watch?v=dPtt7JC2TiA) [III](http://www.youtube.com/watch?v=EbrI3jr47bs)
+-   [Bank of Dave](http://www.youtube.com/playlist?list=PL90B7355FF65C91BA)
+-   [97% Owned - Positive Money Cut](http://www.youtube.com/watch?v=d3mfkD6Ky5o)
+-   [What is Money?](https://www.youtube.com/watch?v=vowbrq_g5NM)
 
-To work locally with this project, you'll have to follow the steps below:
+### Man
 
-1. Fork, clone or download this project
-1. [Install][] GitBook `npm install gitbook-cli -g`
-1. Fetch GitBook's latest stable version `gitbook fetch latest`
-1. Preview your project: `gitbook serve`
-1. Add content
-1. Generate the website: `gitbook build` (optional)
-1. Push your changes to the pages branch: `git push origin pages`
+*Clips*
 
-Read more at GitBook's [documentation][].
+-   [Monkeys can make stone tools too](https://www.youtube.com/watch?v=j0jqJUF1nOs)
 
-## GitLab User or Group Pages
+## Government
 
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
+*Inadequate representation* is a source of a lot of problems in our government. The first amendment proposed on the Bill of Rights would have guaranteed proper representation, but it was never ratified.
 
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
+-   [ThirtyThousand.org](http://www.thirty-thousand.org/)
+-   [H. J. RES. 30](http://www.americasfreedomfighters.com/2017/02/11/california-officially-lose/)
 
-## Did you fork this project?
+*Corrupt representation* is another source of problems in our government.
 
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
+-   [American Anti-Corruption Act](http://anticorruptionact.org/)
+-   [List of American federal politicians convicted of crimes](http://en.wikipedia.org/wiki/List_of_American_federal_politicans_convicted_of_crimes)
 
-## Troubleshooting
+*Clips*
 
-1. CSS is missing! That means two things:
+-   [Ross Perot vs Al Gore NAFTA](https://www.youtube.com/watch?v=5XEziSYRqhU)
+-   [How Political Correctness Limits Ideas](https://www.youtube.com/watch?v=G5-oG0L6ZnU)
+-   [Muammar Gaddafi Speech to United Nations](https://www.youtube.com/watch?v=BKMyY2V0J0Y)
 
-    Either that you have wrongly set up the CSS URL in your templates, or
-    your static generator has a configuration option that needs to be explicitly
-    set in order to serve static assets under a relative URL.
+*Documentaries*
 
-----
+-   [Noam Chomsky on Propaganda](http://www.youtube.com/watch?v=GjENnyQupow)
+-   [American Exceptionalism](http://www.youtube.com/watch?v=h91JphAYt4M)
 
-Forked from @virtuacreative
+*Websites*
 
-[ci]: https://about.gitlab.com/gitlab-ci/
-[GitBook]: https://www.gitbook.com/
-[host the book]: https://gitlab.com/pages/gitbook/tree/pages
-[install]: http://toolchain.gitbook.com/setup.html
-[documentation]: http://toolchain.gitbook.com
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
+-   [Most Damaging Wikileaks](http://www.mostdamagingwikileaks.com/)
+
+## Misc
+
+Additional documentaries that are worth consideration.
+
+-   [The Atomic States of America](http://www.youtube.com/watch?v=dbjD6uUEZ0o)
+-   [Damnation](http://www.youtube.com/watch?v=a125tVzOtsg)
+-   [Pump](http://www.youtube.com/watch?v=W5HFqAbOgns)
+-   [House of Numbers](http://www.youtube.com/watch?v=BsT4GrimfLQ)
+-   [Recycling is a Waste of Time](http://www.youtube.com/watch?v=bzsTaj2o2dk)
+-   [Environmentalism is the New Religion](http://www.youtube.com/watch?v=idYdVQ6nwfA)
+-   [Intelligence Squared Debates](http://www.youtube.com/user/IntelligenceSquared)
+-   [College Conspiracy - The Next Bubble](http://www.youtube.com/watch?v=Vt2dnPKEK9g)
+-   [Why Are Glasses So Expensive](http://www.youtube.com/watch?v=voUiWOGv8ec)
+-   [Feeling the Darkness](http://www.youtube.com/watch?v=1yTaowYrA2o)
+-   [Louis Theroux](http://louistheroux.com/)
