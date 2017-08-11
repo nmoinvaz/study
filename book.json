@@ -7,9 +7,5 @@
             "family": "serif",
             "size": 1
         }
-    },
-    "structure": {
-        "readme": "readme.md",
-        "summary": "summary.md"
     }
 }
