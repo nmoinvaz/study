@@ -5,7 +5,7 @@ Some of these pages constitute my journey to develop the critical faculties of m
 
 <quote><cite>There is no system of either education, politics, or religion, which ought to be excepted from the severest scrutiny of the human mind, or the closest examination which the human faculties can bestow on it.</cite><span>&mdash; <author>Palmer, Elihu</author>, <book>Principles of Nature p. 207</book></span></quote>
 
-## Additional Resources
+## External Resources
 
 These are some interesting resources that I have collected in the course of my studies.
 
