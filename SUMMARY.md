@@ -1,6 +1,6 @@
 # Summary
 
-* [Home](readme.md)
+* [Home](README.md)
 
 ## Software
 
