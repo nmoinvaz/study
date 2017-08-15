@@ -140,8 +140,6 @@ Most of the quotes found on this page come from volume one of Joseph Priestley's
 References
 ----------
 
-<references/>
-
 [^1]: 2 Timothy 3:8-9
 
 > [Additional Quotes](./soul-talk.md)
