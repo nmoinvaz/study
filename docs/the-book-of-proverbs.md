@@ -1,8 +1,6 @@
 The Book of Proverbs
 ====================
 
-NOTE: These are my observations after reflection.
-
 I used to believe that the book of proverbs contained wisdom that was far beyond the capabilities of any human to comprehend and that it was only unlocked through spiritual enlightenment.
 
 I have since realized that the ancients had a particular understanding of the way the world worked and that that understanding was primitive compared to the understanding we have now. They were ignorant of certain things that we've since discovered, and that likewise we are ignorant of certain things that future generations will discover. The common knowledge of those days was different from the common knowledge of these days and because of that the context of many sayings is unknown to modern day readers.

@@ -1,19 +1,20 @@
 Demons
 ======
 
-QUOTES ONLY
+Quotes
+------
 
-### Wikipedia
+**Wikipedia**
 
 <quote><cite>There are indications that demons in popular Hebrew mythology were believed to come from the nether world. Various diseases and ailments were ascribed to them, particularly those affecting the brain and those of internal nature. Examples include the catalepsy, headache, epilepsy, and nightmares... Demons supposedly entered the body and caused the disease while overwhelming or “seizing” the victim.</cite><span>— <author>Wikipedia</author>, <book><a href='http://en.wikipedia.org/wiki/Demon'>Demon</a></book></span></quote>
 
 <quote><cite>There are many human conditions thought by many to be demonic possession</cite><span>— <author>Wikipedia</author>, <book><a href='http://en.wikipedia.org/wiki/Demonic_possession'>Demonic possession</a></book></span></quote>
 
-### An History of Corruption on Christianity
+**An History of Corruption on Christianity**
 
 <quote><cite>And that exorcism took its rise from the Platonic notion that evil daemons hovered over human souls, seducing them to sin.</cite><span>— <author>Priestley, Joseph</author>, <book>An History of Corruption on Christianity p. 84</book></span></quote>
 
-### An essay on the demoniacs of the New Testament
+**An essay on the demoniacs of the New Testament**
 
 <quote><cite>Nay, the very words of our Saviour, How can Satan cast out Satan? if taken in their strictest sense, imply that three were several satans. And our Lord might only mean that it was unreasonable to suppose that one demon would cast out another.</cite><span>— <author>Farmer, Hugh</author>, <book>An essay on the demoniacs of the New Testament p. 10</book></span></quote>
 
@@ -95,7 +96,6 @@ Indeed, the original word, which we render idol, and which signifies an image or
 
 <quote><cite>If demons can inflict grievous diseases, deprive men of their reason and sense, render them dumb and blind, and cause them to suffer the most exquisite torments, they can work miracles: for the infliction of a diease by the agency of any spiritual being, answers to the definition of a miracle, as an affect produced in the system of nature, contrary to the general rules by which it is governed.</cite><span>— <author>Farmer, Hugh</author>, <book>An essay on the demoniacs of the New Testament p. 241</book></span></quote>
 
-### The Gods and Other Lectures
+**The Gods and Other Lectures**
 
 <quote><cite>For ages all nations supposed that the sick and insane were possessed by evil spirits. For thousands of years the practice of medicine consisted in frightening these spirits away.</cite><span>— <author>Ingersoll, Robert</author>, <book>The Gods and Other Lectures p. 29</book></span></quote>
-

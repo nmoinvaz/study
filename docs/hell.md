@@ -1,17 +1,18 @@
 Hell
 ====
 
-QUOTES ONLY.
+Quotes
+------
 
-### An History of Corruption on Christianity
+**An History of Corruption on Christianity**
 
 <quote><cite>In the eighth century, Mosheim says, a notion prevailed, that future punishment might be prevented by donations to religious uses; and therefore few wills were made in which something was not bequeathed to the church.</cite><span>— <author>Priestley, Joseph</author>, <book>An History of Corruption on Christianity p. 204</book></span></quote>
 
-### Wikipedia
+**Wikipedia**
 
 <quote><cite>Some opponents of the doctrine of hell claim that the punishment is disproportionate to any crimes that could be committed, an overkill. Because human beings have a finite lifespan, they can commit only a finite number of sins, yet hell is an infinite punishment. In this vein, Jorge Luis Borges suggests in his essay La duración del Infierno that no transgression can warrant an infinite punishment on the grounds that there is no such thing as an “infinite transgression”.</cite><span>— <author>Wikipedia</author>, <book><a href='http://en.wikipedia.org/wiki/Problem_of_Hell'>Problem of Hell</a></book></span></quote>
 
-### Inquiry
+**Inquiry**
 
 <quote><cite>It is true, that in translating heathen poets, we retain the old sense of the word hell, which answers to the Latin orcus, or rather infernus, as when we speak of the descent of Eneas, or of Orpheus, into hell. Now the word infernus, in Latin, comprehends the receptacle of all the dead, and contains both elysium, the place of the blessed, and Tartarus, the adobe of the miserable.</cite><span>— <author>Balfour, Walter</author>, <book>Inquiry p. 15</book></span></quote>
 
@@ -83,17 +84,17 @@ In the Greek Septuagint the Hebrew word Sheol was translated as Hades, the name 
 
 <quote><cite>For on the doctrine of the immortality of the soul, the doctrine of future punishment is founded. This doctrine among the heathen nations, could not exist without the immortality of the soul.</cite><span>— <author>Balfour, Walter</author>, <book>Inquiry p. 341</book></span></quote>
 
-### Universalism, the doctrine of the Bible
+**Universalism, the doctrine of the Bible**
 
 <quote><cite>It is plain that in the Old Testament the <i>most profound silence is observed</i> in regard to the state of the deceased, their joy or sorrow, their happiness or misery.</cite><span>— <author>Moore, Asher</author>, <book>Universalism, the doctrine of the Bible p. 103</book></span></quote>
 
 <quote><cite>Besides, it should be well understood and never forgotten, that the Gospel is expressly called a new and better covenant than the legal, because established upon better promises--and not because it reveals dreadful and horrible evils that were altogether unknown to the old dispensation.</cite><span>— <author>Moore, Asher</author>, <book>Universalism, the doctrine of the Bible p. 105</book></span></quote>
 
-### Discourses relating to the evidences of revealed religion
+**Discourses relating to the evidences of revealed religion**
 
 <quote><cite>If the heathen philosophers became so <i>vain in their imaginations</i>, when they speculated concerning the nature of <i>God</i>.. much more did they wander in uncertainty and error, with respect to the doctrine of a <i>future state</i>, concerning which, as I have observed, the light of nature gives us no information at all.</cite><span>— <author>Priestly, Joseph</author>, <book>Discourses relating to the evidences of revealed religion pp. 202-203</book></span></quote>
 
-### Principles of nature
+**Principles of nature**
 
 <quote><cite>Hell is a bugbear of superstition, which has never answered, and never can answer, any valuable purpose even in preventing crimes.</cite><span>— <author>Palmer, Elihu</author>, <book>Principles of nature p. 32</book></span></quote>
 
@@ -101,7 +102,6 @@ In the Greek Septuagint the Hebrew word Sheol was translated as Hades, the name 
 
 <quote><cite>What then constitutes a moral evil? It is the violation of a law of justice or utility, by any one of the human species, competent to distinguish between right and wrong.</cite><span>— <author>Palmer, Elihu</author>, <book>Principles of nature Gb. 129</book></span></quote>
 
-### Other Books
+**Other Books**
 
 <quote><cite>The primary religion of mankind arises chiefly from an anxious fear of future events; and what ideas will naturally be entertained of invisible, unknown powers, while men lie under dismal apprehensions of any kind, may easily be conceived. Every image of vengeance, severity, cruelty, and malice must occur, and must augment the ghastliness and horror which oppresses the amazed religionist. ... And no idea of perverse wickedness can be framed, which those terrified devotees do not readily, without scruple, apply to their deity.</cite><span>— <author>Hume, David</author>, <book>The Natural History of Religion, section XIII</book></span></quote>
-

@@ -43,6 +43,7 @@
 
 ## Man
 
+* [Man](docs/man.md)
 * [Human Destiny](docs/human-destiny.md)
 * [Personal Belief](docs/personal-belief.md)
 * [Drugs](docs/drugs.md)

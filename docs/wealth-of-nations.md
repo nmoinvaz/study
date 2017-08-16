@@ -1,6 +1,9 @@
 Wealth of Nations
 =================
 
+Quotes
+------
+
 <quote><cite>Secondly, the advantage which is gained by saving the time commonly lost in passing from one sort of work to another, is much greater than we should at first view to be apt to imagine it. It is impossible to pass very quickly from one kind of work to another, that is carried on in a different place, and with quite different tools... A man commonly saunters a little in turning his hand from one sort of employment to another. When he first begins the new work he is seldom very keen and hearty; his mind, as they say, does not go to it, and for some time he rather trifles than applies to good purpose. The habit of sauntering and of indolent careless application, which is naturally, or rather necessarily, acquired by every country workman who is obliged to change his work and his tools every half hour, and to apply his hand in twenty different ways almost always slothful and alazy, and incapable of any vigorous application even on the most pressing occasions.</cite><span>— <author>Wealth of Nations Vol I p. 13-14</author></span></quote>
 
 <quote><cite>It is naturally to be expected, therefore, that some one or other of those who are employed in each particular branch of labour should soon find out easier and readier methods of performing their own particular work, wherever the nature of it admits of such improvement.</cite><span>— <author>Wealth of Nations Vol I p. 14</author></span></quote>
@@ -42,4 +45,3 @@ Wealth of Nations
 <quote><cite>...profits must always bear some proportion to the capital.</cite><span>— <author>Wealth of Nations Vol I p. 77</author></span></quote>
 
 <quote><cite>Wages, profit, and rent, are the three original sources of all revenue as well as of all exchangeable value. All other revenue is ultimately derived from some one or other of these. Whoever derives his reveune from a fund which is his own, must draw it either from his labour, from his stock, or from his land. The revenue derived from labour is called wages. That derived from stock, by the person who manages or employs it, is called profit. That derived from it by the person who does not employ himself, but lends it to another, is called the interest or the use of money.</cite><span>— <author>Wealth of Nations Vol I p. 78</author></span></quote>
-
