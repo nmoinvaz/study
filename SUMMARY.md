@@ -36,6 +36,7 @@
 
 ## Money
 
+* [Monetary System](docs/monetary-system.md)
 * [Debt](docs/debt.md)
 * [Bitcoin](docs/bitcoin.md)
 * [Paper Money](docs/paper-money.md)
@@ -44,6 +45,7 @@
 ## Man
 
 * [Man](docs/man.md)
+* [Government](docs/government.md)
 * [Human Destiny](docs/human-destiny.md)
 * [Personal Belief](docs/personal-belief.md)
 * [Drugs](docs/drugs.md)

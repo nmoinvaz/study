@@ -23,3 +23,8 @@ Quotes
 <quote><cite>The average marriage contract is a bad one, a fifty-fifty deal with emphasis on the bookkeeping.</cite><span>— <author>Harris, Thomas</author>, <book>I'm OK - You're OK pg. 136</book></span></quote>
 
 <quote><cite>Common relationship wreckers are absolute declarations of “That's the way I am - don't try to change me.” Holding to a rigid “I am a grouch before my first cup of coffee” blames a person's fault on his nature and not his nature on his faults. The “Grouch Before Coffee” racket ruins every morning in many families. What could be the best part of the day, a send-off with enthusiasm to the tasks ahead, is instead a miserable, hostile bedlam. The kids go off to school grumping, husband rushes off to work fumbling for his Tums, and mother feels let down because she just lost her captive audience. The fact is that no one has to be a grouch before his first cup of coffee or any other time. He has a choice..</cite><span>— <author>Harris, Thomas</author>, <book>I'm OK - You're OK pg. 138</book></span></quote>
+
+Clips
+-----
+
+-   [Monkeys can make stone tools too](https://www.youtube.com/watch?v=j0jqJUF1nOs)

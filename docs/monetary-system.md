@@ -1,6 +1,32 @@
 Monetary System
 ===============
 
+The next evolutionary steps in our system of money.
+
+-   [Positive Money](http://www.positivemoney.org/)
+-   [Public Banking](http://publicbankinginstitute.org/)
+
+Documentaries
+-------------
+
+-   [Money Masters](http://www.youtube.com/watch?v=HfpO-WBz_mw)
+-   [The Secret of Oz](http://www.youtube.com/watch?v=swkq2E8mswI)
+-   [Money as Debt I](http://www.youtube.com/watch?v=jqvKjsIxT_8) [II](http://www.youtube.com/watch?v=dPtt7JC2TiA) [III](http://www.youtube.com/watch?v=EbrI3jr47bs)
+-   [Bank of Dave](http://www.youtube.com/playlist?list=PL90B7355FF65C91BA)
+-   [97% Owned - Positive Money Cut](http://www.youtube.com/watch?v=d3mfkD6Ky5o)
+-   [What is Money?](https://www.youtube.com/watch?v=vowbrq_g5NM)
+
+Quotes
+------
+
+### Wikipedia
+
+<quote><cite>To pay for the Civil War a bill was introduced "to permit the U.S. Treasury to issue $150 million in notes as legal tender. This caused tremendous controversy in Congress, as hitherto the Constitution had been interpreted as not granting the government the power to issue a paper currency."</cite><span>&mdash; <author>Wikipedia</author>, <book><a href='http://en.wikipedia.org/wiki/United_States_Note'>United States Note</a></book></span></quote>
+
+<quote><cite>The "50 State" series of quarters was launched in the U.S. in 1999. The U.S. government planned on a large number of people collecting each new quarter as it rolled out of the U.S. Mint, thus taking the pieces out of circulation. Each set of quarters is worth $14.00. Since it costs the Mint about five cents for each 25-cent piece it produces, the government made a profit whenever someone "bought" a coin and chose not to spend it. The U.S. Treasury estimates that it has earned about US$6.3 billion in seigniorage from the quarters over the course of the entire program.
+The government has an incentive to under estimate inflation because it impacts returns on treasury bonds and social security payments. If they reported the actual inflation rate the government would bankrupt itself.</cite><span>&mdash; <author>Wikipedia</author>, <book><a href='https://en.wikipedia.org/wiki/Seigniorage#Seigniorage_today'>Seigniorage</a></book></span></quote>
+
+
 ### English system of finance
 
 <quote><cite>It will not be from the inability of procuring loans that the system will break up. On the contrary, it is the facility with which loans can be procured, that hastens the event. The loans are altogether paper transactions; and it is the excess of them that brings on, with accelerating speed, that progressive deprecation.</cite><span>— <author>Paine, Thomas</author>, <book>English system of finance p. 9</book></span></quote>
@@ -26,4 +52,3 @@ Monetary System
 <quote><cite>There is something curious in the movements of this modern complicated machine, the funding system; and it is only now that it is beginning to unfold the full extent of its movements. In the first part of its movements it gives great powers into the hands of government, and in the last part it takes them completely away.</cite><span>— <author>Paine, Thomas</author>, <book>English system of finance p. 38</book></span></quote>
 
 <quote><cite>“The bank,” says Smith, (book ii. ch. 2.) “is a great engine of the state.” And in the same paragraph he says, “The stability of the bank is equal to that of the British government;” which is the same as to say that the stability of the government is equal to that of the bank, and no more.</cite><span>— <author>Paine, Thomas</author>, <book>English system of finance pp. 40-41</book></span></quote>
-

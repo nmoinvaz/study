@@ -112,8 +112,31 @@ The belief in a supernatural system should make no difference in how men should 
 
 <quote><cite>Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking.</cite><span>— <author>Jobs, Steve</author></span></quote>
 
-Additional Quotes
------------------
+Additional Resources
+--------------------
+
+### Documentaries
+
+-   [Kumare](http://www.youtube.com/watch?v=OXUzG6YKuvo)
+-   [With God on Our Side](http://www.youtube.com/watch?v=RFUm7rTOOio)
+-   [The Bible Unearthed I](http://www.youtube.com/watch?v=t440bxhn1qA) [II](http://www.youtube.com/watch?v=QDDs8HgOZ4o) [III](http://www.youtube.com/watch?v=Pm45sZEu25w) [IV](http://www.youtube.com/watch?v=3tdKptBL5dc)
+-   [Death is Not Final](http://www.youtube.com/watch?v=h0YtL5eiBYw)
+-   [American Radical](http://www.youtube.com/watch?v=r-QiH0O8-Qg)
+-   [The Unbelievers](http://en.wikipedia.org/wiki/The_Unbelievers)
+-   [Jesus Camp](https://en.wikipedia.org/wiki/Jesus_Camp)
+-   [God Loves Uganda](http://www.godlovesuganda.com/)
+
+### Articles
+
+-   [Focus on Reasoning, Not on Belief](http://www.youngfreethought.net/2012/07/eric-stockhausen-20-offers-some.html)
+-   [The Scriptural Basis for a Geocentric Cosmology](http://hypertextbook.com/eworld/geocentric.shtml)
+-   [The Bible is Pro-Choice](http://www.prochoiceactionnetwork-canada.org/articles/bible.shtml)
+-   [A Prayer For My Daughter](http://openparachute.files.wordpress.com/2008/09/prayer-for-my-daughter.pdf)
+-   [On Religious Fanaticism](http://www.psychosynthesispaloalto.com/pdfs/Religious_Fan.pdf)
+-   [World Religions Tree](http://funki.com.ua/ru/portfolio/lab/world-religions-tree/)
+-   [Is philosophy dead?](http://www.debate.org/opinions/is-philosophy-dead)
+
+### Quotes
 
 **Discourses relating to the evidences of revealed religion**
 
