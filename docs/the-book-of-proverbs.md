@@ -9,6 +9,11 @@ I have since realized that the ancients had a particular understanding of the wa
 
 The sayings of the ancients like themselves are ancient. And the older a thing is does not necessarily mean it is wiser. It is the complete knowledge of a thing that makes us wiser about it; where we have clear and distinct ideas of the subject matter and have examined every argument concerning it. Wise sayings are not arguments for or against a particular stance, rather they are the opinions of human beings who were held in high regard by the society in which they lived in for the mental faculties they possessed. It is only when these opinions are applied to the nature of things can their validity be assessed.
 
-Saying a thing is so, is no longer enough for people to believe; whether it be from a powerful government, a divine book, or a wise man - it must be objectively proven to be so.
+Saying a thing is so, is no longer enough for people to believe [^1]; whether it be from a powerful government, a divine book, or a wise man - it must be objectively proven to be so.
 
 <quote><cite>If in an argument, we should rely solely on a quotation from Locke, or Aristole, or Cicero, or the Institutes of Justianian, we should be required to prove that the alleged dictum of these or any other wise but fallible men, was an instance in which they wrote wisely, and was not one of the numerous errors into which all men have fallen.</cite><span>— <author>Macnaught, John</author>, <book>The doctrine of inspiration pp. 17-18</book></span></quote>
+
+References
+----------
+
+[^1]: Lee, Matt. ['Nobody Believes You': AP Reporter Stuns State Department Spokeswoman](http://www.breitbart.com/video/2013/10/25/nobody-believes-you-ap-reporter-blasts-stunned-state-department-spokeswoman/)
