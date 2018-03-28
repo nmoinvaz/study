@@ -15,7 +15,7 @@
 
 ## Books
 
-* [OpenLibrary](http://openlibrary.org/people/nmoinvaziri/lists)
+* [OpenLibrary](https://openlibrary.org/people/nmoinvaziri/books/already-read)
 
 ## Religion
 
