@@ -7,10 +7,11 @@ Some of these pages constitute my journey to develop the critical faculties of m
 
 Here are some interesting documentaries that are worth consideration.
 
+-   [The Bleeding Edge](https://www.netflix.com/title/80170862)
+-   [Take Your Pills](https://www.netflix.com/title/80117831)
 -   [The Atomic States of America](http://www.youtube.com/watch?v=dbjD6uUEZ0o)
 -   [Damnation](http://www.youtube.com/watch?v=a125tVzOtsg)
 -   [Pump](http://www.youtube.com/watch?v=W5HFqAbOgns)
--   [House of Numbers](http://www.youtube.com/watch?v=BsT4GrimfLQ)
 -   [Recycling is a Waste of Time](http://www.youtube.com/watch?v=bzsTaj2o2dk)
 -   [Environmentalism is the New Religion](http://www.youtube.com/watch?v=idYdVQ6nwfA)
 -   [Intelligence Squared Debates](http://www.youtube.com/user/IntelligenceSquared)
