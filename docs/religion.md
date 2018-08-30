@@ -125,6 +125,8 @@ Additional Resources
 -   [The Unbelievers](http://en.wikipedia.org/wiki/The_Unbelievers)
 -   [Jesus Camp](https://en.wikipedia.org/wiki/Jesus_Camp)
 -   [God Loves Uganda](http://www.godlovesuganda.com/)
+-   [Come Sunday](https://www.netflix.com/title/80152625)
+-   [The Case for Christ](https://www.netflix.com/title/80158084)
 
 ### Articles
 
