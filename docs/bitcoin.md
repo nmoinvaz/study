@@ -38,6 +38,12 @@ A currency which has a fixed supply of money will always end in a deflationary s
 
 Attempts to refute the deflationary spiral nature of Bitcoin often confuse deflation's cause with its effects. [^6]
 
+Personal Experience
+-------------------
+
+Early on I bought 800 bitcoins when it was at $10 a piece. It was about $8000. Because of the high volitility I got out. 
+Had I not sold my bitcoin I would have made $12.8 million dollars at the end of 2017.
+
 More Articles
 -------------
 
