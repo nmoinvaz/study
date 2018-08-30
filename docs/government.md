@@ -23,6 +23,7 @@ Documentaries
 
 -   [Noam Chomsky on Propaganda](http://www.youtube.com/watch?v=GjENnyQupow)
 -   [American Exceptionalism](http://www.youtube.com/watch?v=h91JphAYt4M)
+-   [The Putin Interviews](http://www.sho.com/the-putin-interviews)
 
 Websites
 --------
