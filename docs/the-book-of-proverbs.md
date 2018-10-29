@@ -13,6 +13,8 @@ Saying a thing is so, is no longer enough for people to believe [^1]; whether it
 
 <quote><cite>If in an argument, we should rely solely on a quotation from Locke, or Aristole, or Cicero, or the Institutes of Justianian, we should be required to prove that the alleged dictum of these or any other wise but fallible men, was an instance in which they wrote wisely, and was not one of the numerous errors into which all men have fallen.</cite><span>— <author>Macnaught, John</author>, <book>The doctrine of inspiration pp. 17-18</book></span></quote>
 
+It is not enough for me to believe whatever somebody says. It is not enough for me to believe what a loud number of people are saying. It is only enough for me to believe those things I have investigated myself to a particular degree of certainty.
+
 References
 ----------
 
