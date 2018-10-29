@@ -11,6 +11,7 @@ before_script:
   - gitbook fetch 3.2.3 # fetch latest stable version
   #- gitbook fetch pre # fetch latest pre-release version
   #- gitbook fetch 2.6.7 # fetch specific version
+  - gitbook install
   
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
