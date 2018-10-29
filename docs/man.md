@@ -1,7 +1,9 @@
 Man
 ===
 
-There is an episode of Star Trek Voyager where the crew visits a planet where they eventually find it is illegal to think violent thoughts. Unknowingly one crew member violates the law and is arrested by the authorities who charge her with the crime of aggravated violent thought. The basis for that law was the idea that violent thoughts lead to violent actions.
+### Thoughts
+
+There is an episode of Star Trek Voyager where the crew visits a planet where they eventually find it is illegal to think violent thoughts. Unknowingly one crew member violates the law and is arrested by the authorities who charge her with the crime of _aggravated violent thought_. The basis for that law was the idea that _violent thoughts lead to violent actions_.
 
 But violent thoughts do not always lead to violent actions. If it were the case, our maximum security prisons would be full of murder mystery and horror story writers. In fact, it is possible to think a thought and take no action toward it; many people think about getting into shape but few actually do it.
 
