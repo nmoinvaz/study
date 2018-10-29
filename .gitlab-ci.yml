@@ -1,5 +1,5 @@
 # requiring the environment of NodeJS 4.2.2
-image: node:4.2.2
+image: node:8.9
 
 # add 'node_modules' to cache for speeding up builds
 cache:
@@ -11,7 +11,8 @@ before_script:
   #- gitbook fetch latest # fetch latest stable version
   #- gitbook fetch pre # fetch latest pre-release version
   - gitbook fetch 2.6.7 # fetch specific version
-
+  - gitbook install
+  
 # the 'pages' job will deploy and build your site to the 'public' path
 pages:
   stage: deploy
