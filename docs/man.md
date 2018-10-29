@@ -40,12 +40,11 @@ That nation-wide propaganda was very effective because people received their inf
 We still hear the same slogan about making the world safe for democracy almost a century later. Not only are the slogans the same, but the results have been the same too. It starts by demonizing the leaders of foreign countries and it ends with the deaths of our citizens trying to take our that monster.
 Three steps must be taken to smash the war racket.
 
-1. We must take the profit out of war.
+<quote><cite>1. We must take the profit out of war.
 2. We must permit the youth of the land who would bear arms to decide whether or not there should be war.
-3. We must limit our military forces to home defense purposes. [^5]
-There will always be some kind of incentive to war. Perhaps the only solution to prevent war is one where all parties are in a position of mutually assured destruction.
-References
+3. We must limit our military forces to home defense purposes. [^5]</cite><span>— <author>Butler Smedley, War Is A Racket</author></span></quote>
 
+There will always be some kind of incentive to war. Perhaps the only solution to prevent war is one where all parties are in a position of mutually assured destruction.
 
 References
 ----------
