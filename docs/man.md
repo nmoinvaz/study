@@ -19,6 +19,43 @@ But violent thoughts do not always lead to violent actions. If it were the case,
 
 If we have a disturbing thought it does not necessarily mean we will act in a disturbing manner. The fact that we consider it a disturbing thought is evidence enough that our faculties are still in tact. We should not be afraid when we have stray thoughts for as quick as a thought comes it also goes.
 
+### War
+
+Somebody recently recommended to me that I read the book War Is A Racket, written by Major General Smedley D. Butler. The author was a decorated solider in the marine corps and transcribed his thoughts in 1935 as the war drums were being sounded for World War II.
+
+<quote><cite>For a great many years, as a soldier, I had a suspicion that war was a racket; not until I retired to civil life did I fully realize it. Now that I see the international war clouds gathering, as they are today, I must face it and speak out. [^1]</cite><span>— <author>Butler Smedley, War Is A Racket</author></span></quote>
+
+Those international war clouds seem to gather quite frequently even today. As soon as one war ends, another starts. When one enemy has been defeated, another rises up to takes its place. Time and again, the cylinders of war find themselves back at the same places they had started from.
+
+<quote><cite>A racket is best described, I believe, as something that is not what it seems to the majority of the people. Only a small "inside" group knows what it is about. It is conducted for the benefit of the very few, at the expense of the very many. Out of war a few people make huge profits. [^2]</cite><span>— <author>Butler Smedley, War Is A Racket</author></span></quote>
+
+Those few beneficiaries of war act as robber barons - they are businessmen who use an unscrupulous method of enriching themselves in times of international conflict. The song they sing is the perpetual song of war. If you want to hear what it sounds like simply tune into the mainstream media; they are one of the biggest champions of war.
+
+<quote><cite>Boys with a normal viewpoint were taken out of the fields and offices and factories and classrooms and put into the ranks... They were put shoulder to shoulder and, through mass psychology, they were entirely changed. We used them for a couple of years and trained them to think nothing at all of killing or of being killed. Then suddenly, we discharged them and …This time they had to do their own readjustment, sans [without] mass psychology, sans officers' aid and advice and sans nation-wide propaganda. [^3]</cite><span>— <author>Butler Smedley, War Is A Racket</author></span></quote>
+
+That nation-wide propaganda was very effective because people received their information about the world from only a few sources. Today however, the development of the internet has given every individual the potential to become an information source with a world-wide audience. We are seeing what happens when competing nation-wide propaganda campaigns are conducted on a global stage.
+
+<quote><cite>When our boys were sent off to war they were told it was a "war to make the world safe for democracy" and a "war to end all wars." Well, eighteen years after, the world has less democracy than it had then. Besides, what business is it of ours whether Russia or Germany or England or France or Italy or Austria live under democracies or monarchies? Whether they are Fascists or Communists? Our problem is to preserve our own democracy. [^4]</cite><span>— <author>Butler Smedley, War Is A Racket</author></span></quote>
+
+We still hear the same slogan about making the world safe for democracy almost a century later. Not only are the slogans the same, but the results have been the same too. It starts by demonizing the leaders of foreign countries and it ends with the deaths of our citizens trying to take our that monster.
+Three steps must be taken to smash the war racket.
+
+1. We must take the profit out of war.
+2. We must permit the youth of the land who would bear arms to decide whether or not there should be war.
+3. We must limit our military forces to home defense purposes. [^5]
+There will always be some kind of incentive to war. Perhaps the only solution to prevent war is one where all parties are in a position of mutually assured destruction.
+References
+
+
+References
+----------
+
+[^1]: War is a Racket, pg. 7
+[^2]: War is a Racket, pg. 1
+[^3]: War is a Racket, pg. 33
+[^4]: War is a Racket, pp. 54–55
+[^5]: War is a Racket, pg 51.
+
 Quotes
 ------
 
