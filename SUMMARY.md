@@ -1,5 +1,7 @@
 # Summary
 
+* [Home](README.md)
+
 ## Software
 
 * [ExtractNow](http://www.extractnow.com/)
