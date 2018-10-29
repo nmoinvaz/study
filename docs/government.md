@@ -11,6 +11,8 @@ Government
 -   [American Anti-Corruption Act](http://anticorruptionact.org/)
 -   [List of American federal politicians convicted of crimes](http://en.wikipedia.org/wiki/List_of_American_federal_politicans_convicted_of_crimes)
 
+The founders of the United States envisioned three branches of government as a system of checks and balances. But as time has gone by, that system of checks and balances has eroded. Organizations that allow insiders to leak information to the public serve as an additional check and balance to corruption. That is why it is important for an organization like Wikileaks to exist — as a final check and balance.
+
 Clips
 -----
 
