@@ -43,7 +43,7 @@ An accusation of impropriety is not evidence of an impropriety. It is one thing 
 
 At times it is important to be willing to entertain seemingly offensive ideas in order to come to a correct conclusion about a matter. It may be possible to miss key evidence because it offends our personal narrative.
 
-Each claim must be evaluated individually based on his own merits.
+Each claim must be evaluated individually based on his own merits. We are bombarded with so much information throughout the day and one problem is that we are not always afforded the time we need in order to assess all that information. That is why it is important for us to prioritize what we critically analyze so that the information that has the potential to change our world view significantly is given precedence.
 
 References
 ----------
