@@ -1,11 +1,12 @@
 # Summary
-* [Home](README.md)
 
 ## Software
+
 * [ExtractNow](http://www.extractnow.com/)
 * [WebShot](http://www.websitescreenshots.com/)
 
 ## Programming
+
 * [GitHub](http://github.com/nmoinvaz)
 * [Minizip](http://github.com/nmoinvaz/minizip)
 * [StackOverflow](http://stackoverflow.com/users/610692/nathan-moinvaziri)
