@@ -23,6 +23,21 @@ Every _group_ that comes together for a joined purpose will begin to _think_ in 
 
 In the same way that much of humanity got tired of religious sects, I hope they will also get tired of political parties. Perhaps the only system of government that has the potential to remove the party from politics is one where the people are directly represented by themselves rather than through proxy representation. Given the state of technology at this current time, I don’t think it is unreasonable that such a system of self-government could exist.
 
+### 2016 Presidental Edition
+_Feb 2017_
+
+One of the points that I constantly made during the Presidential election was what I saw would be the difference in the entertainment value that each candidate would bring to our country for the next four years. I regularly told people I knew that a Trump administration would be the most entertaining years of our lives. I saw what kind of charisma and bravado he had in the presidential debates and on the campaign trail and knew that if he was elected he would bring the same to the white house. When he won the election, I feared that it might change. But the last few months have shown me that what I knew at the beginning was right.
+
+It is a huge difference from what we saw the last eight years. People were simply not fired up about the direction things were going. Initially when Obama was elected people were excited and electrified because they believed that things were finally going to change. And that is what Obama campaigned on - hope and change. But once he was in office, things fizzled out and people got tired of him. Even the press complained that he was [overexposing](http://archive.is/L1zT7) himself early on.
+
+Whenever Obama came before the American people and gave speeches they were so well rehearsed and scripted that they even put Joe Biden to [sleep](https://www.youtube.com/watch?v=bhMZBsOSXjw). At some point people started tuning him out and he became indistinguishable from the rest of the background noise. Things improved for him whenever he did one on one interviews probably because he let his personality show. But I think there is such a thing as being too presidential and we saw it with Obama. I remember in an interview once Obama mentioned something very important - that he thought there was a _filter_ that existed between him and the American people and that if he could have a chat in each individual home - he would win over all of America. Perhaps the _filter_ he spoke of was one put up by the media, or perhaps it was one he put up himself, or maybe it was both.
+
+I can't imagine a Clinton presidency would have been much different than an Obama presidency. Especially considering the fact that Clinton had a hard time [relating](http://archive.is/31q9j) to the American people. In the presidential debates she had overly rehearsed answers to questions - something called canned responses. If people want a canned response, they can email tech support. But I think what people really want is somebody who will inspire them. Clinton had an equally hard time on the campaign trail and failed to draw crowds as large as her nearest competitors. She was simply not exciting - she was only the lesser of two evils.
+
+Trump is different. He is something that nobody has ever seen before. He is no stranger to the media or to _controversy_ - in fact, he probably feeds off it. And perhaps that too is why people are attracted to him. So many of the presidential debates had high ratings because people wanted to tune in to watch him. They wanted to see what he was going to say next. He stirs up _controversy_ wherever he goes and it gets people engaged.
+
+Even that the election is over, people continue to want to tune into to see what he is doing. The white house press briefings have as many [viewers](http://thehill.com/homenews/media/319013-spicers-briefings-on-cable-now-beat-ratings-for-abc-cbs-soaps) as the daytime soaps. People find themselves watching them for the first time. Perhaps it is because they want to be entertained, or perhaps it is because they want to see change, or maybe it is both. What is certain is that Trump does not seem to be afraid to show people who he is or what he thinks even if it might offend their sensibilities. And I think that is a huge draw.
+
 Clips
 -----
 
