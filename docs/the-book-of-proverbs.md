@@ -15,8 +15,7 @@ Saying a thing is so, is no longer enough for people to believe [^1]; whether it
 
 It is not enough for me to believe whatever somebody says. It is not enough for me to believe what a loud number of people are saying. It is only enough for me to believe those things I have investigated myself to a particular degree of certainty.
 
-Claims
-===
+### Evaluating Claims
 
 Whenever evaluating the veracity of a claim I try to keep a few things in mind:
 
