@@ -1,7 +1,17 @@
 Man
 ===
 
-### Thoughts
+### Human Brain
+
+The human brain is similar to a hard drive in that it has a finite storage capacity. When a hard drive reaches capacity it becomes necessary to compress its contents or optimize the usage of disk space through defragmentation. In the same way, it is not physically possible to remember everything that happens throughout our lives. Our brains undergo a similar process of compressing and optimizing the details of our daily lives — most likely while we are sleeping.
+
+The difference between the two optimization processes is that lossless operations are performed on our hard drives and lossly operations are performed by our brain. In other words, optimizations done on a hard drive preserve all data where as optimizations done by our brain preserve only relevant data. It is the data that is preserved in this process that is used by our brain to construct the stories or narratives it carries with it.
+
+We carry with us all sorts of stories; which are compacted versions of events. And we use these stories to help us understand the world around us.
+
+Problems arise when stories conflict with one another. Two individuals can experience the same event together and come away with different stories. And these stories can diverge further from each other as time passes. It is through societal pressures that one story becomes the officially accepted story. To question that story or to raise any doubts about it eventually becomes a hersey.
+
+### Violent Thoughts
 
 There is an episode of Star Trek Voyager where the crew visits a planet where they eventually find it is illegal to think violent thoughts. Unknowingly one crew member violates the law and is arrested by the authorities who charge her with the crime of _aggravated violent thought_. The basis for that law was the idea that _violent thoughts lead to violent actions_.
 
