@@ -4,7 +4,8 @@ Government
 *Inadequate representation* is a source of a lot of problems in our government. The first amendment proposed on the Bill of Rights would have guaranteed proper representation, but it was never ratified.
 
 -   [ThirtyThousand.org](http://www.thirty-thousand.org/)
--   [H. J. RES. 30](http://www.americasfreedomfighters.com/2017/02/11/california-officially-lose/)
+-   [H. J. RES. 30](https://www.congress.gov/bill/115th-congress/house-joint-resolution/30)
+-   [Convention of States](https://conventionofstates.com/cos-simulation)
 
 *Corrupt representation* is another source of problems in our government.
 
