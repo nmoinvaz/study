@@ -1,0 +1,39 @@
+{
+  "docs": {
+    "Home": [
+      "index"
+    ],
+    "Religion": [
+      "trinity", 
+      "incompatible-premises",
+      "satan",
+      "baptism",
+      "original-sin",
+      "angels",
+      "fallen-angels",
+      "god",
+      "soul",
+      "bible",
+      "hell",
+      "demons",
+      "religion",
+      "the-boook-of-proverbs",
+      "jude"
+    ],
+    "Money": [
+      "monetary-system",
+      "debt",
+      "bitcoin",
+      "paper-money",
+      "wealth-of-nations"
+    ],
+    "Man": [
+      "man",
+      "government",
+      "human-destiny",
+      "personal-belief",
+      "drugs",
+      "anxiety"
+    ]
+  }
+}
