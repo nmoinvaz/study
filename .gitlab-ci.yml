@@ -17,6 +17,7 @@ pages:
     - cd ..
     - mkdir public
     - mv website/build/study/* public
+    - mv public/en/* *
   artifacts:
     paths:
       - public
