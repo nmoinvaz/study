@@ -1,6 +1,6 @@
 ---
 id: soul
-title: soul
+title: Soul
 ---
 
 
