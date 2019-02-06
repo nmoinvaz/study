@@ -1,5 +1,5 @@
 ---
-id: Soul
+id: soul
 title: soul
 ---
 
