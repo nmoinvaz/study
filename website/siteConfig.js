@@ -49,7 +49,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/flask.svg',
   footerIcon: 'img/research.svg',
-  favicon: 'img/flask.png',
+  favicon: 'img/lightbulb.png',
 
   /* Colors for website */
   colors: {
@@ -86,10 +86,6 @@ const siteConfig = {
   onPageNav: 'separate',
   // No .html extensions for paths.
   cleanUrl: true,
-
-  // Open Graph and Twitter card images.
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,

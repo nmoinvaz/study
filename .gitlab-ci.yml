@@ -16,7 +16,7 @@ pages:
     - npm run build
     - cd ..
     - mkdir public
-    - mv website/build/test-site/* public
+    - mv website/build/study/* public
   artifacts:
     paths:
       - public
