@@ -2,6 +2,7 @@
 id: drugs
 title: Drugs
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 Psychiatric
 -----------

@@ -2,6 +2,7 @@
 id: fallen-angels
 title: Fallen Angels
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 The idea of there being fallen angels is a part of the doctrines of Christian system and it is generally thought that these angels fell when they were led away from God by the chief of all angels.
 

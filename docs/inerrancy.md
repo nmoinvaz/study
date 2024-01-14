@@ -1,3 +1,5 @@
+<link href="index.css" rel="stylesheet"></link>
+
 Inerrancy
 =========
 
@@ -12,4 +14,3 @@ Inerrancy
 <quote><cite>If inspiration be a thing found in truth, there can be no occasion to alter or revise it. It is defect alone that creates the necessity of alteration and revision.</cite><span>— <author>Carlile, R</author>, <book>Principles of nature p. 22</book></span></quote>
 
 <quote><cite>Therefore, if the Bible was right at first, every alteration is a deviation from that rectitude; and consequently, in proportion as the scriptures have been altered and revised in modern times, the Christian believer has been led astray; he has not believed in the real and true word of God.</cite><span>— <author>Carlile, R</author>, <book>Principles of nature p. 22</book></span></quote>
-

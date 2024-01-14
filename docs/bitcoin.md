@@ -2,6 +2,7 @@
 id: bitcoin
 title: Bitcoin
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 What is it?
 -----------
@@ -43,7 +44,7 @@ Attempts to refute the deflationary spiral nature of Bitcoin often confuse defla
 Personal Experience
 -------------------
 
-Early on I bought 800 bitcoins when it was at $10 a piece which was an investment of about $8000. Because of the high volitility that had seen, I sold all my bitcoin. 
+Early on I bought 800 bitcoins when it was at $10 a piece which was an investment of about $8000. Because of the high volitility that had seen, I sold all my bitcoin.
 Had I not sold my bitcoin I would have had $12.8 million dollars at the end of 2017.
 
 More Articles

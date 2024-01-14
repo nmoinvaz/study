@@ -2,6 +2,7 @@
 id: man
 title: Man
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 ### Human Brain
 

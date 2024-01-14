@@ -2,6 +2,7 @@
 id: government
 title: Government
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 *Inadequate representation* is a source of a lot of problems in our government. The first amendment proposed on the Bill of Rights would have guaranteed proper representation, but it was never ratified.
 

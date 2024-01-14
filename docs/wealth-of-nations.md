@@ -2,6 +2,7 @@
 id: wealth-of-nations
 title: Wealth of Nations
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 Quotes
 ------

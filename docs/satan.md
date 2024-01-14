@@ -2,6 +2,7 @@
 id: satan
 title: Satan
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 The doctrine of a *principle of evil* supposes there to be a supernatural being that fell from heaven who tempts mankind in the earth and torments their wicked souls in hell -- theologically referred to as the devil and person-ologically referred to by the name Satan. The word *Satan* that appears in the English scriptures is an untranslated Hebrew *verb* meaning to “obstruct, oppose”. [^1] It is left untranslated and capitalized as a proper name solely based on the bias of the translators; the ancient Hebrew written language made no distinction between uppercase and lowercase letters.
 

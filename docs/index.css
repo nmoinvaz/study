@@ -1,0 +1,12 @@
+quote {
+    border-left: 4px solid gray;
+    padding: 8px 32px;
+    display: block;
+}
+quote cite {
+    margin-top: 0;
+    font-style: normal;
+}
+quote span {
+    margin-bottom: 0;
+}

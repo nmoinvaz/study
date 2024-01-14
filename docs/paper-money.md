@@ -2,7 +2,7 @@
 id: paper-money
 title: Paper Money
 ---
-
+<link href="index.css" rel="stylesheet"></link>
 
 Quotes
 ------

@@ -2,6 +2,7 @@
 id: debt
 title: Debt
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 Mortgages
 ---------
@@ -13,4 +14,3 @@ Mortgages
 What can be said of mortgages can also be said of student loans or any form of debt which all mortgage your future earnings. In other words, any form of debt exposes your future to *risk or constraint* for the sake of *immediate advantage*.
 
 <quote><cite>Some people achieve <i>temporary relief</i> by accumulating possessions, by living in a bigger, better house than the Joneses, or even reveling in their modesty: I am humbler than you are. These maneuvers, which are based on what Adler called “guiding fictions,” may provide a welcome relief even though down the road may be a disaster in the form of an <i>oppressive mortgage</i> or consumptive bills, which commit the person to a life of perpetual drudgery.</cite><span>— <author>Harris, Thomas</author>, <book>I'm OK - You're OK pg. 55</book></span></quote>
-

@@ -2,6 +2,7 @@
 id: trinity
 title: Trinity
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 The doctrine of the trinity describes *an essential union of a divine and human nature, and a supposed union of three distinct created spirits*:
 

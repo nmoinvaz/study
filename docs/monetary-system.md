@@ -2,6 +2,7 @@
 id: monetary-system
 title: Monetary System
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 The next evolutionary steps in our system of money.
 

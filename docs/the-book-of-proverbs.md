@@ -2,6 +2,7 @@
 id: the-book-of-proverbs
 title: The Book of Proverbs
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 I used to believe that the book of proverbs contained wisdom that was far beyond the capabilities of any human to comprehend and that it was only unlocked through spiritual enlightenment.
 

@@ -2,6 +2,7 @@
 id: god
 title: God
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 The doctrine of God asserts there to be a Being, usually supernatural in origin, who created all things and is the highest authority when it comes to all things. Some say he plays an active roll in history, others say he is silent.
 

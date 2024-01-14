@@ -2,6 +2,7 @@
 id: anticipations
 title: Anticipations
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 ### Automation
 
@@ -30,4 +31,3 @@ In the Wealth of Nations, Adam Smith talked about the division of labor and how 
 Automation is being utilized by big corporations to do repetitive tasks.
 
 Automation as it exists currently has been reserved for manufacturers who can afford to pay for its development. It costs a hefty sum of both time and money to to build a robot and then to program to do specific tasks. In the not too distant future, automation will be
-

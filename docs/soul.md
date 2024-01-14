@@ -2,7 +2,7 @@
 id: soul
 title: Soul
 ---
-
+<link href="index.css" rel="stylesheet"></link>
 
 The philosophy of the *soul* supposes that there exists with-in man an immaterial spirit that existed prior to the creation of his body and will continue to exist long after the destruction of it.
 

@@ -2,6 +2,7 @@
 id: demons
 title: Demons
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 Quotes
 ------

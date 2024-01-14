@@ -2,6 +2,7 @@
 id: jude
 title: Jude
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 Credibility
 -----------
@@ -14,5 +15,3 @@ References
 ----------
 
 <references/>
-
-

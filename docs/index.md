@@ -2,6 +2,7 @@
 id: index
 title: Home
 ---
+<link href="index.css" rel="stylesheet"></link>
 
 Some of these pages constitute my journey to develop the critical faculties of my mind.
 
