@@ -2,13 +2,11 @@
 
 Some of these pages constitute my journey to develop the critical faculties of my mind.
 
-- [Anticipations](anticipations.md)
 - [Anxiety](anxiety.md)
 - [Bitcoin](bitcoin.md)
 - [Bittorrent](bittorrent.md)
 - [Debt](debt.md)
 - [Drugs](drugs.md)
-- [Evolution](evolution.md)
 - [Government](government.md)
 - [Hell](hell.md)
 - [Human Destiny](human-destiny.md)
