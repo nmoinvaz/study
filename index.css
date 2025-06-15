@@ -1,6 +1,7 @@
 quote {
     border-left: 4px solid gray;
     padding: 8px 32px;
+    margin-bottom: 20px;
     display: block;
 }
 quote cite {
