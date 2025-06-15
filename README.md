@@ -26,6 +26,7 @@ Here are some interesting documentaries that are worth consideration.
 
 -   [The Bleeding Edge](https://www.netflix.com/title/80170862)
 -   [Take Your Pills](https://www.netflix.com/title/80117831)
+-   [The Game Changers](https://www.netflix.com/title/81157840)
 -   [Rotten](https://www.netflix.com/title/80146284)
 -   [The Atomic States of America](http://www.youtube.com/watch?v=dbjD6uUEZ0o)
 -   [Damnation](http://www.youtube.com/watch?v=a125tVzOtsg)
