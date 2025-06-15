@@ -1,8 +1,7 @@
----
-id: personal-belief
-title: Personal Belief
----
 <link href="index.css" rel="stylesheet"/>
+
+Personal Belief
+===============
 
 It is difficult to rationally discuss topics where *personal* belief might be introduced into a conversation. The primary source of contention is always the psychological nature of the belief held by the individual. It is the degree with which the individual identifies with the belief that distinguishes it from being able to be discussed rationally or not. If we consider a *belief* to be a conclusion an individual has arrived at, then a *personal belief* could be considered the identification of one’s self with that conclusion. Any opposition that might be raised toward the personal belief of an individual is perceived not as an objection to the validity of the belief, but rather as an attack on the identity of the individual who holds it. Losing an argument for the validity of a personally held belief is tantamount to losing one’s own identity and can produce cognitive dissonance. In this way personal beliefs are held dogmatically even though they might not be promoted fanatically. The more reliant the individual’s identity is upon the belief, the more dogmatically they will hold to it. In this way, it becomes even harder for the individual to objectively analyze it as time goes on.
 
