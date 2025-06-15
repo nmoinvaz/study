@@ -1,4 +1,4 @@
-<link href="index.css" rel="stylesheet"></link>
+<link href="index.css" rel="stylesheet"/>
 
 Some of these pages constitute my journey to develop the critical faculties of my mind.
 
