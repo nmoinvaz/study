@@ -11,3 +11,6 @@ quote cite {
 quote span {
     margin-bottom: 0;
 }
+quote author, quote book {
+    font-size: small;
+}
