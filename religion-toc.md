@@ -17,3 +17,4 @@ Religion
 * [Demons](demons.md)
 * [Religion](religion.md)
 * [The Book of Proverbs](the-book-of-proverbs.md)
+* [Jude](jude.md)
