@@ -1,8 +1,7 @@
----
-id: bittorrent
-title: BitTorrent
----
 <link href="index.css" rel="stylesheet"></link>
+
+BitTorrent
+==========
 
 ### In-Browser BitTorrent
 

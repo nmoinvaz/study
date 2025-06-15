@@ -1,12 +1,11 @@
----
-id: the-book-of-proverbs
-title: The Book of Proverbs
----
 <link href="index.css" rel="stylesheet"></link>
+
+The Book of Proverbs
+====================
 
 I used to believe that the book of proverbs contained wisdom that was far beyond the capabilities of any human to comprehend and that it was only unlocked through spiritual enlightenment.
 
-I have since realized that the ancients had a particular understanding of the way the world worked and that that understanding was primitive compared to the understanding we have now. They were ignorant of certain things that we've since discovered, and that likewise we are ignorant of certain things that future generations will discover. The common knowledge of those days was different from the common knowledge of these days and because of that the context of many sayings is unknown to modern day readers.
+I have since realized that the ancients had a particular understanding of the way the world worked and that that understanding was primitive compared to the understanding we have now. They were ignorant of certain things that we've since discovered, and that likewise we are ignorant of certain things that future generations will discover. The common knowledge of those days was different from the common knowledge of these days and because of that the context of many sayings is lost on modern day readers.
 
 <quote><cite>An appeal to authority is an appeal to one's sense of modesty, which is to say, an appeal to the feeling that others are more knowledgeable. A type of appeal to irrelevant authority is the appeal to ancient wisdom, where something is assumed to be true just because it was believed to be true some time ago.</cite><span>— <author>Almossawi, Ali</author>, <book>An illustrated book of bad arguments p. 14</book></span></quote>
 

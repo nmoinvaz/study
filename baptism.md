@@ -1,9 +1,7 @@
----
-id: baptism
-title: Baptism
----
 <link href="index.css" rel="stylesheet"></link>
 
+Baptism
+=======
 
 The doctrine of baptism is essentially the belief that in order to be saved you must be baptized. Adherents to the doctrine usually prescribe a particular mode or method of being baptized and advertise it as the one true baptism; whereby if one is not baptized in that one particular way, they are not saved.
 

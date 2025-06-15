@@ -1,8 +1,7 @@
----
-id: man
-title: Man
----
 <link href="index.css" rel="stylesheet"></link>
+
+Man
+===
 
 ### Human Brain
 

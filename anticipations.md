@@ -1,8 +1,7 @@
----
-id: anticipations
-title: Anticipations
----
 <link href="index.css" rel="stylesheet"></link>
+
+Anticipations
+=============
 
 ### Automation
 

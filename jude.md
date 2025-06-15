@@ -1,8 +1,7 @@
----
-id: jude
-title: Jude
----
 <link href="index.css" rel="stylesheet"></link>
+
+Jude
+====
 
 Credibility
 -----------

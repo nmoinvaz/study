@@ -1,8 +1,7 @@
----
-id: bible
-title: Bible
----
 <link href="index.css" rel="stylesheet"></link>
+
+Bible
+=====
 
 <quote><cite>The instant we admit that a book is too sacred to be doubted, or even reasoned about, we are mental serfs.</cite><span>— <author>Ingersoll, Robert</author>, <book>The Gods and Other Lectures p. 14</book></span></quote>
 

@@ -1,8 +1,7 @@
----
-id: incompatible-premises
-title: Incompatible Premises
----
 <link href="index.css" rel="stylesheet"></link>
+
+Incompatible Premises
+=====================
 
 Based on the quote from Attacking Faulty Reasoning I've surmised a couple of rules of incompatible premises.
 

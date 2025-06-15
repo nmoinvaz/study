@@ -1,8 +1,7 @@
----
-id: bitcoin
-title: Bitcoin
----
 <link href="index.css" rel="stylesheet"></link>
+
+Bitcoin
+=======
 
 What is it?
 -----------

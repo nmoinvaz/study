@@ -1,8 +1,7 @@
----
-id: debt
-title: Debt
----
 <link href="index.css" rel="stylesheet"></link>
+
+Debt
+====
 
 Mortgages
 ---------

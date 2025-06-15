@@ -1,8 +1,7 @@
----
-id: angels
-title: Angels
----
 <link href="index.css" rel="stylesheet"></link>
+
+Angels
+======
 
 The doctrine of *angels* has been long embedded in Christian theology yet there is little that is known about these creatures who are thought to be the servants of God. This lack of knowledge has been the cause of much *speculation* about them.
 

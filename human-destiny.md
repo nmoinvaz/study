@@ -1,8 +1,7 @@
----
-id: human-destiny
-title: Human Destiny
----
 <link href="index.css" rel="stylesheet"></link>
+
+Human Destiny
+=============
 
 Excerpts from *What Do You Say After You Say Hello* from Eric Berne:
 

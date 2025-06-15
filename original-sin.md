@@ -1,8 +1,7 @@
----
-id: original-sin
-title: Original Sin
----
 <link href="index.css" rel="stylesheet"></link>
+
+Original Sin
+============
 
 The doctrine of *original sin* is the notion that the *nature* of man changed when Adam and Eve disobeyed God in the garden of Eden and partook of the forbidden fruit. This event is often referred to as the *fall of man* and because of it all mankind is said to be in a fallen state and liable to God for it.
 

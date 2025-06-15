@@ -1,10 +1,40 @@
----
-id: index
-title: Home
----
 <link href="index.css" rel="stylesheet"></link>
 
 Some of these pages constitute my journey to develop the critical faculties of my mind.
+
+- [Angels](angels.md)
+- [Anticipations](anticipations.md)
+- [Anxiety](anxiety.md)
+- [Baptism](baptism.md)
+- [Bible](bible.md)
+- [Bitcoin](bitcoin.md)
+- [Bittorrent](bittorrent.md)
+- [Debt](debt.md)
+- [Demons](demons.md)
+- [Drugs](drugs.md)
+- [Evolution](evolution.md)
+- [Fallen Angels](fallen-angels.md)
+- [God](god.md)
+- [Government](government.md)
+- [Hell](hell.md)
+- [Human Destiny](human-destiny.md)
+- [Incompatible Premises](incompatible-premises.md)
+- [Inerrancy](inerrancy.md)
+- [Jude](jude.md)
+- [Main Page Talk](main-page-talk.md)
+- [Man](man.md)
+- [Monetary System](monetary-system.md)
+- [Original Sin](original-sin.md)
+- [Paper Money](paper-money.md)
+- [Personal Belief](personal-belief.md)
+- [Religion](religion.md)
+- [Religion TOC](religion-toc.md)
+- [Satan](satan.md)
+- [Soul](soul.md)
+- [The Book of Proverbs](the-book-of-proverbs.md)
+- [Trinity](trinity.md)
+- [Wealth of Nations](wealth-of-nations.md)
+
 
 <quote><cite>There is no system of either education, politics, or religion, which ought to be excepted from the severest scrutiny of the human mind, or the closest examination which the human faculties can bestow on it.</cite><span>&mdash; <author>Palmer, Elihu</author>, <book>Principles of Nature p. 207</book></span></quote>
 

@@ -1,8 +1,7 @@
----
-id: anxiety
-title: Anxiety
----
 <link href="index.css" rel="stylesheet"></link>
+
+Anxiety
+=======
 
 <quote><cite>Charles Darwin observed that fear reactions are fairly universal across species: all mammals, including humans, exhibit readily observable fear responses.</cite><span>— <author>Stossel, Scott</author>, <book>My Age of Anxiety p. 42</book></span></quote>
 

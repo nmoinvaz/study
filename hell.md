@@ -1,8 +1,7 @@
----
-id: hell
-title: Hell
----
 <link href="index.css" rel="stylesheet"></link>
+
+Hell
+====
 
 Quotes
 ------

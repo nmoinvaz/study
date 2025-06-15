@@ -1,7 +1,7 @@
 <link href="index.css" rel="stylesheet"></link>
 
 Religion
-===
+========
 
 * [Trinity](trinity.md)
 * [Incompatible Premises](incompatible-premises.md)

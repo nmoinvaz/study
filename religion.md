@@ -1,8 +1,7 @@
----
-id: religion
-title: Religion
----
 <link href="index.css" rel="stylesheet"></link>
+
+Religion
+========
 
 <quote><cite>As populations increased and the formerly unifying familial and tribal forces became less powerful, other forces such as religion filled the gap, providing people with a sense of belongingness and common purpose.</cite><span>— <author>Iyengar, Sheena</author>, <book>The Art of Choosing p. 33</book></span></quote>
 
